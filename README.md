@@ -7,7 +7,8 @@ polytrack offline port
 download the one called polytrack-standalone, and run the exe inside.
 ## not standalone - 2 MB, moderately harder, looks more like a virus
 download the one not called polytrack-standalone, run the bat inside, and go to http://localhost:8000
-this one requires python to be installed.
+this one requires python to be installed. or just like any other way to host it, all files are in /files directory. would work on a vps or just ps too i assume.
+you also can just clone this repo, the not standalone one is just this repo but with the readme removed.
 
 # OTHER OS
 ## standalone - 140 MB, harder, looks less like a virus
